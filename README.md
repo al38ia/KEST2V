@@ -1,3 +1,7 @@
 # KEST2V
-## _verk 1_
+## _project 1_
+
+============================
+
+# Yoga Pro 7 14ASP9 LENOVO:
 

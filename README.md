@@ -21,6 +21,25 @@
 _______________
 
 
-## this is the laptop CPU 
-1.  ![CPU](CPU.png)
+## 1. this is the overall view of the laptop
+![overall view](images/overall_view.png)
 
+
+## 2. this is the laptop CPU 
+![CPU](images/CPU.png)
+
+
+## 3. this is a picture of the laptop GPU and we can see that its the same 
+![GPU](images/GPU.png)
+
+
+## 4. this is a picture of my RAM 
+![RAM](images/RAM.png)
+
+
+## 5. and this picture shows the storage unit that my laptop has 
+![storage](images/STORAGE.png)
+
+
+## 6. and lastly this picture shows my battery
+![battery](images/battery.png)

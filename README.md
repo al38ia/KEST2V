@@ -13,3 +13,14 @@
 
 *Connectivity is covered by Wi-Fi 6E, Bluetooth 5.3, USB-A, USB-C, and HDMI 2.1 ports, while security is handled by Microsoft Pluton TPM 2.0. It is powered by a 73 Wh battery with Rapid Charge Express, and housed in a 1.54 kg aluminium body with a slim, professional design. Overall, the Lenovo Yoga Pro 7 combines speed, efficiency, and portability, making it a reliable laptop for school, work, and everyday use*
 
+==============================
+==============================
+
+
+#  |( IMAGES )|
+_______________
+
+
+## this is the laptop CPU 
+1.  ![CPU](CPU.png)
+
